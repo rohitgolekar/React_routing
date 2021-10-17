@@ -1,0 +1,10 @@
+.Heading, .navbar {
+    background-color: #323232!important;
+    margin: 0px;
+    box-shadow: 0px 5px 15px 0px #664d03;
+}
+
+.Heading {
+    border-bottom: 2px solid;
+    padding-bottom: 16px;
+}
